@@ -1,0 +1,2 @@
+ae48a2a23c14438048723d9e25348d68
+https://api.openweathermap.org/data/2.5/weather?q=PUNE&appid=ae48a2a23c14438048723d9e25348d68
